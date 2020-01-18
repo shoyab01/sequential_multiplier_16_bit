@@ -19,12 +19,15 @@ Sequential Multiplier is based on the concept "Add and Shift". This is similar t
 
 # Sequential Multiplication Example
 
-To be uploaded...
+![example](https://github.com/shoyab01/sequential_multiplier_16_bit/blob/master/images/seq_mul_example.PNG)
 
 # Circuit Diagram
 
-To be uploaded...
+![circuit_diagram](https://github.com/shoyab01/sequential_multiplier_16_bit/blob/master/images/circuit_diagram.PNG)
 
 # Example Result
 
-To be uploaded...
+![1](https://github.com/shoyab01/sequential_multiplier_16_bit/blob/master/images/1.PNG)
+![2](https://github.com/shoyab01/sequential_multiplier_16_bit/blob/master/images/2.PNG)
+![3](https://github.com/shoyab01/sequential_multiplier_16_bit/blob/master/images/3.PNG)
+![4](https://github.com/shoyab01/sequential_multiplier_16_bit/blob/master/images/4.PNG)
